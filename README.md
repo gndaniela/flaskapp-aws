@@ -13,7 +13,7 @@
 ## __Implemented Solution:__
 
 
-  ![Diagram](./img/Flaskapp-v1.png)
+  ![Diagram](./img/flaskapp-v1-arch.png)
 
 * <ins>Region:
     - US East - N. Virginia
